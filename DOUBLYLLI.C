@@ -200,7 +200,7 @@ void searching()
 		  if(temp->data==item)
 			{
 
-				printf("\n\nITEM FOUND AT %d POSIOTION\n\n",i);
+				printf("\n\nITEM FOUND AT %d POSITION\n\n",i);
 				flag=flag+1;
 			}
 			i=i+1;
