@@ -63,4 +63,4 @@ void main()
        printf("\n%d\t",c[i]);
     }
     getch();
-    }
+}
