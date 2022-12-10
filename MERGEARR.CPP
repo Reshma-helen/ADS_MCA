@@ -13,8 +13,6 @@ for(i=0;i<m;i++)
 {
 scanf("%d",&a[i]);
 }
-
-
 printf("\n enter the size of second array:");
 scanf("%d",&n);
 
