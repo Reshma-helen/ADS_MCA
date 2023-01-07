@@ -79,7 +79,7 @@ void main()
 	default:
 	    printf("invalid input");
 	}
-    }while(ch!=7);
+    }while(ch!=5);
     getch();
 }
 
